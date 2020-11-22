@@ -2,5 +2,5 @@
 
 Animación de objetos 3D con JavaFx <br>
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/00YsHqAnE2s)
+[![ScreenShot](https://github.com/NorbeyCollazos/Animacion3DJava/blob/master/src/sample/fondos/baner_inicial.png)](https://www.youtube.com/watch?v=00YsHqAnE2s)
 
